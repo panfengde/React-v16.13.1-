@@ -81,3 +81,4 @@ class PAN1 extends React.Component {
 }
 
 export default PAN1;
+
